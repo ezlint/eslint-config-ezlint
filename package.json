@@ -2,7 +2,7 @@
   "name": "eslint-config-ezlint",
   "version": "0.0.0",
   "description": "A collection of simple eslint configs that provide basic settings needed for some libraries.",
-  "repository": "git@github.com:ezlint/eslint-config-ezlint-ts-base.git",
+  "repository": "git@github.com:ezlint/eslint-config-ezlint.git",
   "author": "James Young <hello@jamesyoung.ch>",
   "license": "MIT",
   "private": false,
