@@ -1,2 +1,2 @@
-# eslint-config-ezlint-ts-base
-A simple eslint config that just sets the parser to typescript.
+# eslint-config-ezlint
+A collection of simple eslint configs that provide basic settings needed for some libraries.
