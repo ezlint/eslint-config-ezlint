@@ -1,8 +1,7 @@
 {
-  "name": "eslint-config-ezlint-ts-base",
+  "name": "eslint-config-ezlint",
   "version": "0.0.0",
-  "description": "A simple eslint config that just sets the parser to typescript.",
-  "main": ".eslintrc.js",
+  "description": "A collection of simple eslint configs that provide basic settings needed for some libraries.",
   "repository": "git@github.com:ezlint/eslint-config-ezlint-ts-base.git",
   "author": "James Young <hello@jamesyoung.ch>",
   "license": "MIT",
