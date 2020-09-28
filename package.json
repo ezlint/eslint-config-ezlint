@@ -6,8 +6,5 @@
   "author": "James Young <hello@jamesyoung.ch>",
   "license": "MIT",
   "private": false,
-  "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.2.0",
-    "@typescript-eslint/parser": "^4.2.0"
-  }
+  "main": "/configs"
 }
